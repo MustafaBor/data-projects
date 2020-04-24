@@ -1,1 +1,2 @@
-This repository contains a collection of data analysis projects.
+# A collection of data-driven projects
+---
